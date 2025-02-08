@@ -73,6 +73,7 @@
     <Compile Include="Assets/Scripts/paralaxBG.cs" />
     <Compile Include="Assets/Scripts/cameraFollow.cs" />
     <Compile Include="Assets/Scripts/upgradeButton.cs" />
+    <Compile Include="Assets/Scripts/coinCounter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
